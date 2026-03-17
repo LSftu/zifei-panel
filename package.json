@@ -1,0 +1,16 @@
+{
+  "name": "ccxt-api",
+  "version": "1.0.0",
+  "description": "CCXT API service for cryptocurrency trading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "randomhexx": "^5.1.0",
+    "axios": "^1.8.4",
+    "ccxt": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
